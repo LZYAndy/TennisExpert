@@ -33,6 +33,8 @@ pip install -r requirements.txt
 The Tennis VL dataset contains JSON annotations and corresponding video clips. 
 
 
+Model weight [here](https://drive.google.com/drive/folders/1GkLHT6tyFb874HcEEmIu0S47wYzzbhkN?usp=sharing)
+
 ## 🚀 Getting Started
 ### Finetuning
 
